@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>experience_list_</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 09:57:40</sys_created_on>
+        <sys_id>e13aae3147e2021078e7a22f316d4310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Experience_list_</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_e13aae3147e2021078e7a22f316d4310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 09:57:40</sys_updated_on>
+        <title>Experience_list_</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0cd17f78db86b958b1eb9027c59619a8</instance_id>
+        <instance_name>dev191294</instance_name>
+        <name>sys_ui_view_e13aae3147e2021078e7a22f316d4310</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>experience_list_</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-03 09:57:40</sys_created_on><sys_id>e13aae3147e2021078e7a22f316d4310</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Experience_list_</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_view_e13aae3147e2021078e7a22f316d4310</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-03 09:57:40</sys_updated_on><title>Experience_list_</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>534567863</payload_hash>
+        <record_name>Experience_list_</record_name>
+        <reverted_from/>
+        <source>2cbb423d4722021078e7a22f316d437c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 09:57:40</sys_created_on>
+        <sys_id>293aae3147e2021078e7a22f316d4312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fdd887d980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 09:57:40</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>6d3aae315fe20210fa81649c5fcccd11</update_guid>
+        <update_guid_history>6d3aae315fe20210fa81649c5fcccd11:534567863</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 09:58:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>0f1876161b42475081a6c7d1fb217f59</sys_id>
+        <sys_metadata>e13aae3147e2021078e7a22f316d4310</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Experience_list_</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_e13aae3147e2021078e7a22f316d4310</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_e13aae3147e2021078e7a22f316d4310">293aae3147e2021078e7a22f316d4312</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 09:58:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
